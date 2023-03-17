@@ -1,0 +1,30 @@
+body{
+    background-image: url("img/bg-pink.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+form{
+    text-align: center;
+
+    text-align: left;
+
+}
+.form{
+    padding: 20px;
+    background-color: white;
+    margin-left: 400px;
+    margin-right: 400px;
+
+}
+legend{
+    font-size: 20px;
+}
+input{
+    width: 90%;
+}
+button{
+    width: 90%;
+    background-color: royalblue;
+    height: 40px;
+    color: white;
+}
